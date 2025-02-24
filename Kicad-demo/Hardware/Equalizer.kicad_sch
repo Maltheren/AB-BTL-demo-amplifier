@@ -1,0 +1,13 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "136c72a5-a622-43f7-9a53-14fc2513315d")
+	(paper "A4")
+	(title_block
+		(title "AB-BTL power amplifier demo")
+		(company "AAU-satlab")
+		(comment 1 "Malthe Sennels")
+	)
+	(lib_symbols)
+)

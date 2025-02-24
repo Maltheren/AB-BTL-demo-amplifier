@@ -1,0 +1,12 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "2c3c8f02-5f04-4f73-a27c-4506f6262d12")
+	(paper "A4")
+	(title_block
+		(company "AAU-satlab")
+		(comment 1 "Malthe Sennels")
+	)
+	(lib_symbols)
+)
